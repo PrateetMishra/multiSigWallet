@@ -1,0 +1,4 @@
+dotenv: .env
+networks:
+  kovan:
+    gas_limit: 10000000000000000
